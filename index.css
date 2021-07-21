@@ -96,7 +96,7 @@ h3{
     }
 }
 
-@media all and (max-width: 700px) and (orientation: landscape){
+@media all and (max-width: 700px) and (min-width: 501px) and (orientation: landscape){
     h1{
         font-size: 1rem;
     }
