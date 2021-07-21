@@ -96,7 +96,7 @@ h3{
     }
 }
 
-@media all and (max-width: 700px) and (min-width: 501px) and (orientation: landscape){
+@media screen and (max-width: 700px) and (min-width: 501px) and (orientation: landscape){
     h1{
         font-size: 1rem;
     }
@@ -116,7 +116,7 @@ h3{
         font-weight: 900;
         border: 2px solid white;
         border-radius: 5px;
-        margin-top: 60%;
+        margin-top: 40%;
     }
     
     #entrar:active{
