@@ -95,7 +95,8 @@ body{
         font-weight: 900;
         border: 2px solid white;
         border-radius: 5px;
-        margin-top: 25%;
+        /* margin-top: 25%; */
+        top: 50%;
     }
     
     #entrar:active{
