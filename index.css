@@ -96,13 +96,13 @@ h3{
     }
 }
 
-@media screen and (max-width: 700px) and (height: 350px){
+@media screen and (max-width: 700px) and (height: 400px){
     h1{
         font-size: 2rem;
     }
     
     h3{
-        width: 80%;
+        width: 40%;
         font-size: 1rem;
         font-weight: 700;
     }
