@@ -96,7 +96,7 @@ h3{
     }
 }
 
-@media screen and (max-width: 700px) and (height: 400px){
+@media screen and (max-width: 700px) and (height: 400px) and (orientation: landscape){
     h1{
         font-size: 2rem;
     }
